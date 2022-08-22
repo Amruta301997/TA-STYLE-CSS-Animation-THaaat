@@ -54,6 +54,7 @@ animation-iteration-count: 5;
     border: 2px solid black;
 
 }
+
 .front{
     transform: translateX(-200px) translateY(-200px) translateZ(200px);
     background-color: aquamarine;
@@ -78,6 +79,8 @@ animation-iteration-count: 5;
     transform: translateX(-200px) translateY(-400px) rotateX(90deg);
     background-color: rgb(249, 255, 127);
 }
+
+
 
 
 @keyframes spin {
